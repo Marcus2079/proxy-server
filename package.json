@@ -1,5 +1,5 @@
 {
-  "name": "alloy",
+  "name": "proxy",
   "version": "2.5.0",
   "description": "A web proxy.",
   "main": "server.js",
@@ -14,15 +14,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/titaniumnetwork-dev/alloy.git"
-  },
   "keywords": [
+    ,
+    "Marcus2079",
     "proxy",
-    "titanium network",
-    "alloy",
-    "alloyproxy",
     "web unblocker",
     "unblock",
     "web proxy",
@@ -30,10 +25,6 @@
     "workplace",
     "web filter"
   ],
-  "author": "Titanium Network",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/titaniumnetwork-dev/alloy/issues"
-  },
-  "homepage": "https://github.com/titaniumnetwork-dev/alloy#readme"
+  "author": "Marcus2079",
+  "license": "GSU",
 }
