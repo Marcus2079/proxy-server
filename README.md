@@ -4,7 +4,7 @@ A web proxy for use in combating web filters.
 ## Running locally
 
 ```sh
-git clone 
+git clone https://github.com/Marcus2079/proxy-server
 cd proxy
 node server.js
 ```
